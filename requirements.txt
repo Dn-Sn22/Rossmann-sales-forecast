@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+gradio
+xgboost
+scikit-learn
+pandas
+numpy
+pydantic

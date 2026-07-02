@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Секреты — НИКОГДА не коммитим
+kaggle.json
+*.env
+
+# Служебное
+.ipynb_checkpoints/
+.DS_Store
